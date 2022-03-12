@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Machine Learning algorithms practice code 
+Machine learning algorimaths implementations. Practis examples data sets.
